@@ -38,6 +38,7 @@ After running the script, your files will be organized like this:
      ├── fitness/
      ├── tech/
      └── misc/
+     
 Each folder contains images that match the category.
 
 ## ⚙️ Customization ##
