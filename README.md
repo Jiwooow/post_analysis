@@ -39,7 +39,7 @@ The script will:
 
 📂 Folder Structure
 After running the script, your files will be organized like this:
-'''
+```
   /sorted_thumbnails/
      ├── travel/
      ├── food/
@@ -47,7 +47,7 @@ After running the script, your files will be organized like this:
      ├── fitness/
      ├── tech/
      └── misc/
-'''
+```
 
 Each folder contains images that match the category.
 
