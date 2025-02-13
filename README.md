@@ -17,14 +17,17 @@ This project automates the process of downloading Instagram post thumbnails, ana
 Ensure you have Python installed, then install the required packages:
 
   pip install -r requirements.txt
+
 2️⃣ Install ChromeDriver
 Since Selenium is used for automation, you need ChromeDriver installed and compatible with your Chrome version.
 
   Download it from: ChromeDriver Downloads
   Place it in your system PATH or inside the project folder.
+
 3️⃣ Set Up the Script
 Place your target Instagram post URLs in a file (e.g., input_urls.txt).
 Run the script to start downloading and categorizing thumbnails.
+
 4️⃣ Run the Program
 python main.py
 The script will:
