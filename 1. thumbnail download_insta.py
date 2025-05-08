@@ -437,17 +437,4 @@ for imgURL in image_urls:
 
 '''
 
-
-
-
-'''
-# assert "Python" in driver.title
-# elem = driver.find_element(By.NAME, "q") name으로 html element 찾기
-# elem.clear()
-# elem.send_keys("pycon") 단어 입력
-# elem.send_keys(Keys.RETURN) 엔터키 전송
-# assert "No results found." not in driver.page_source
-# driver.close()
-
-'''
 driver.close()
