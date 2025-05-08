@@ -71,7 +71,9 @@ You may need to log in or use API-based methods for private accounts.
 ## 🛠️ Future Enhancements ##
 
 🔹 Improve hashtag accuracy with a more advanced AI model.
+
 🔹 Add support for video thumbnails.
+
 🔹 Implement a web-based interface for easier use.
 
 ## 🤝 Contributions ##
