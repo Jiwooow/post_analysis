@@ -7,8 +7,11 @@ This project automates the process of downloading Instagram post thumbnails, ana
 ## ✨ Features ##
 
 ✅ Automated Instagram Thumbnail Download – Fetches post thumbnails from Instagram automatically.
+
 ✅ AI-Based Hashtag Generation – Uses machine learning to analyze images and suggest relevant hashtags.
+
 ✅ Automatic Sorting – Categorizes images into folders based on detected content themes.
+
 ✅ Bulk Processing – Works with multiple Instagram posts efficiently.
 
 ## 🚀 How to Use ##
